@@ -12,7 +12,7 @@ seasons: Number of seasons (if applicable)
 Running_time: Duration (if applicable)
 age rating: Content rating (e.g., U, UA, A)
 year: Year of release
-genre: action , drama, sports etc.
+genre: action , drama, sports etc
 
 Key Analysis:-
 Content Type Breakdown: Movies vs. TV shows.
